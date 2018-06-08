@@ -1,5 +1,6 @@
 # R code for "Yes, but Did It Work: Evaluating Variational Inference"
 The paper  has been  accepted by ICML 2018. 
+[Preprint](https://arxiv.org/abs/1802.02538)
 
 The R_code folder contains source code for Figure 1-8 in the paper, where we experimentally illustrates the benefits of proposed diagnoistics. 
 
